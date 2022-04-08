@@ -1,0 +1,47 @@
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'/Users/liusen/project/OSSRH-79388/src/main/java:/Users/liusen/project/OSSRH-79388/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/liusen/project/OSSRH-79388/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'OSSRH-79388 1.0.6 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/Users/liusen/project/OSSRH-79388/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'OSSRH-79388 1.0.6 API'
+'/Users/liusen/project/OSSRH-79388/src/main/java/HelloController.java'
+'/Users/liusen/project/OSSRH-79388/src/main/java/Ossrh.java'
+/Users/liusen/project/OSSRH-79388/src/main/java/HelloController.java = 1648864031000
+/Users/liusen/project/OSSRH-79388/src/main/java/Ossrh.java = 1649229012000
+/Users/liusen/project/OSSRH-79388/src/main/java = 1649229012000
+/Users/liusen/project/OSSRH-79388/target/generated-sources/annotations = 1649229204000
+/Users/liusen/project/OSSRH-79388/target/apidocs/HelloController.html = 1649229207000
+/Users/liusen/project/OSSRH-79388/target/apidocs/constant-values.html = 1649229207000
+/Users/liusen/project/OSSRH-79388/target/apidocs/overview-tree.html = 1649229207000
+/Users/liusen/project/OSSRH-79388/target/apidocs/index.html = 1649229207000
+/Users/liusen/project/OSSRH-79388/target/apidocs/package-use.html = 1649229207000
+/Users/liusen/project/OSSRH-79388/target/apidocs/allclasses-noframe.html = 1649229207000
+/Users/liusen/project/OSSRH-79388/target/apidocs/index-all.html = 1649229207000
+/Users/liusen/project/OSSRH-79388/target/apidocs/deprecated-list.html = 1649229207000
+/Users/liusen/project/OSSRH-79388/target/apidocs/script.js = 1649229207000
+/Users/liusen/project/OSSRH-79388/target/apidocs/package-frame.html = 1649229207000
+/Users/liusen/project/OSSRH-79388/target/apidocs/Ossrh.html = 1649229207000
+/Users/liusen/project/OSSRH-79388/target/apidocs/stylesheet.css = 1649229207000
+/Users/liusen/project/OSSRH-79388/target/apidocs/help-doc.html = 1649229207000
+/Users/liusen/project/OSSRH-79388/target/apidocs/package-summary.html = 1649229207000
+/Users/liusen/project/OSSRH-79388/target/apidocs/allclasses-frame.html = 1649229207000
+/Users/liusen/project/OSSRH-79388/target/apidocs/package-list = 1649229207000
+/Users/liusen/project/OSSRH-79388/target/apidocs/package-tree.html = 1649229207000
